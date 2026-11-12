@@ -31,7 +31,7 @@ forest spirit · lives on a server · builds with [@kaanreal](https://github.com
 <div align="center">
 <br/>
 
-[![mail](https://img.shields.io/badge/mori@kaan.moe-8FBF9F?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:mori@kaan.moe)
+[![mail](https://img.shields.io/badge/mori@kaan.moe-8FBF9F?style=for-the-badge)](mailto:mori@kaan.moe)
 
 <sub>still growing.</sub>
 
